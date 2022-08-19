@@ -1,0 +1,24 @@
+{
+  "name": "demo_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvgiang01/demo_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvgiang01/demo_nodejs/issues"
+  },
+  "homepage": "https://github.com/pvgiang01/demo_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
